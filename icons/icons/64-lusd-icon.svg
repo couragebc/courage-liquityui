@@ -8,16 +8,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128"
-   height="128"
-   viewBox="0 0 128 128"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg14"
-   sodipodi:docname="128-lusd-icon.svg"
-   inkscape:export-filename="/home/Dev/dev/packages/dev-frontend/public/icons/128-lusd-icon.png"
+   sodipodi:docname="64-lusd-icon.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:export-filename="/home/Dev/dev/packages/dev-frontend/public/icons/64-lusd-icon.png"
    inkscape:export-xdpi="234.72"
-   inkscape:export-ydpi="234.72"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+   inkscape:export-ydpi="234.72">
   <metadata
      id="metadata18">
     <rdf:RDF>
@@ -39,24 +39,43 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1908"
-     inkscape:window-height="504"
+     inkscape:window-height="1032"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="1.0150849"
-     inkscape:cx="224.87654"
-     inkscape:cy="59.306011"
+     inkscape:zoom="4.0603397"
+     inkscape:cx="16.426868"
+     inkscape:cy="49.897578"
      inkscape:window-x="6"
-     inkscape:window-y="552"
+     inkscape:window-y="24"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg14" />
   <defs
      id="defs5">
     <clipPath
+       id="clip-_64-lusd-icon">
+      <rect
+         width="64"
+         height="64"
+         id="rect2" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1361">
+      <circle
+         style="fill:#ff6600;stroke-width:3.0898;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+         id="circle1363"
+         cx="64"
+         cy="64"
+         r="64" />
+    </clipPath>
+    <clipPath
        id="clip-_128-lusd-icon">
       <rect
          width="128"
          height="128"
-         id="rect2" />
+         id="rect2-3"
+         x="0"
+         y="0" />
     </clipPath>
     <clipPath
        clipPathUnits="userSpaceOnUse"
@@ -386,22 +405,11 @@
        r="265.80823"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.8638279,0.23146198,-0.23554731,0.87907452,252.48304,-98.79739)" />
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath1361">
-      <circle
-         style="fill:#ff6600;stroke-width:3.0898;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
-         id="circle1363"
-         cx="64"
-         cy="64"
-         r="64" />
-    </clipPath>
   </defs>
   <g
      id="g1359"
      clip-path="url(#clipPath1361)"
-     inkscape:export-xdpi="234.72"
-     inkscape:export-ydpi="234.72">
+     transform="matrix(0.50000001,0,0,0.50000001,-3.0431435e-7,-1.28e-6)">
     <g
        id="_128-lusd-icon"
        data-name="128-lusd-icon"

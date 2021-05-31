@@ -1,6 +1,6 @@
 {
-  "short_name": "Liquity Dev UI",
-  "name": "Liquity Developer UI",
+  "short_name": "Courage Liquity UI",
+  "name": "Courage Liquity UI",
   "icons": [
     {
       "src": "favicon.png",
@@ -11,5 +11,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#001320"
 }
